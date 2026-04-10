@@ -20,7 +20,7 @@
     "beebotte": "^1.7.0",
     "chai": "^4.2.0",
     "geolib": "2.0.24",
-    "mathjs": "5.1.0",
+    "mathjs": "15.2.0",
     "moment": "2.22.2"
   },
   "devDependencies": {
